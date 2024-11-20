@@ -1,14 +1,14 @@
 # Incremental Prototype-based DBSCAN (IPD)
 
-## Overview 
+##  🔍 Overview 
 DBSCAN is a popular density-based clustering method known for its ability to detect clusters of diverse shapes. However, its performance significantly degrades when dealing with large-scale datasets due to challenges in label storage and processing. On the other hand, centroid-based methods like K-means are efficient for large datasets but struggle with identifying non-spherical clusters.
 
 
-## Our Solution
+## 💡 Our Solution
 
 The **Incremental Prototype-based DBSCAN (IPD)** algorithm combines the strengths of these different clustering approaches. IPD is designed to handle large datasets effectively while identifying clusters of arbitrary shapes. It begins by forming initial clusters using DBSCAN on a small prototype and incrementally adds new data points, establishing a scalable clustering process.
 
-## Key Features
+## 🚀✨ Key Features
 
 -   **Prototype-Based Clustering**: IPD creates a prototype using a sample dataset, which is then expanded to include all patterns from the entire dataset.
 -   **Cluster Representatives**: The algorithm selects core points as representatives for each cluster, ensuring reasonable boundary detection.
@@ -47,9 +47,4 @@ author={Jayasree Saha and Jayanta Mukhopadhyay},
 booktitle={ICPR-2024}, 
 year={2024}, 
  }
-
-
-
-
-
 
