@@ -23,7 +23,7 @@ Our experimental analysis demonstrates that IPD achieves **perfect convergence a
 
 ## 🎉 Exciting News!
 
-We are thrilled to announce that our paper titled "**Incremental Prototype-based DBSCAN (IPD) Algorithm**" has been **accepted for publication**! 🚀✨ 
+We are thrilled to announce that our paper titled "**IPD: Scalable Clustering with Incremental Prototypes**" has been **accepted for publication**! 🚀✨ 
 
 This acceptance is a recognition of our efforts in developing a scalable and accurate clustering approach for large datasets. 
 
@@ -35,10 +35,11 @@ Thank you for your support!
 
 
 # Publication
-
+'''
 @inproceedings{saha2024ipd, 
 title={IPD: Scalable Clustering with Incremental Prototypes}, 
 author={Jayasree Saha and Jayanta Mukhopadhyay}, 
 booktitle={ICPR-2024}, 
 year={2024}, 
  }
+'''
