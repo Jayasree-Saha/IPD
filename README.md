@@ -35,11 +35,20 @@ Thank you for your support!
 
 
 # Publication
-'''
-@inproceedings{saha2024ipd, 
-title={IPD: Scalable Clustering with Incremental Prototypes}, 
-author={Jayasree Saha and Jayanta Mukhopadhyay}, 
-booktitle={ICPR-2024}, 
-year={2024}, 
- }
-'''
+## 📑 Citation
+
+If you use our work, please cite:
+
+### BibTeX
+```bibtex
+@inproceedings{author2024ipd,
+  title={Incremental Prototype-based DBSCAN (IPD) Algorithm},
+  author={Your Name and Co-author Name},
+  booktitle={Proceedings of the Conference Name},
+  year={2024},
+  url={https://link-to-paper.com}
+}
+
+
+
+
